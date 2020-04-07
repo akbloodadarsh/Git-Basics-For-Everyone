@@ -1,5 +1,5 @@
 # Git-Basics-For-Everyone
-Git commands that can help you! 
+<h1>Git commands that can help you!</h1> <br/>
 
 **Step:1 Copy the link for cloning the repository in your local machine<br/>
 <p align="center">
