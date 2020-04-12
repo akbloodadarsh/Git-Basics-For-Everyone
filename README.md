@@ -29,3 +29,6 @@
 <p align="center">
   <img src="https://github.com/akbloodadarsh/Git-Basics-For-Everyone/blob/master/7.png">
 </p><br/>
+## Step:8 Use these to set the timer to input credentials for verification again<br/>
+git config --global credential.helper cache
+git config --global credential.helper 'cache --timeout=10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
