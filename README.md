@@ -29,7 +29,7 @@
 <p align="center">
   <img src="https://github.com/akbloodadarsh/Git-Basics-For-Everyone/blob/master/7.png">
 </p><hr>
-<h2>Step:8 Use these to set the timer to input credentials for verification again</h2> <hr>
+<h2>Step:8 Use these to set the timer to input credentials for verification again after a long period of time,after setting this you don't need to input credentials again everytime you push</h2> <hr>
   <p align="center">
   <img src="https://github.com/akbloodadarsh/Git-Basics-For-Everyone/blob/master/8.png">
 </p><hr>
