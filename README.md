@@ -33,3 +33,9 @@
   <p align="center">
   <img src="https://github.com/akbloodadarsh/Git-Basics-For-Everyone/blob/master/8.png">
 </p><hr>
+  
+  
+  #keeping a fork updated from the master branch
+  git remote add upstream "link of the upstream master "
+  git fetch upstream
+  git pull upstream master
