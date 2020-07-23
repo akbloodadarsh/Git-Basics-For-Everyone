@@ -1,6 +1,9 @@
 # Git-Basics-For-Everyone
 <h1>Git commands that can help you!</h1> <hr>
-https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source
+...javascript
+echo "# blabla" >> README.md
+...
+<a href="https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source">Related to Gity</a>
 <h2> Step:1 Copy the link for cloning the repository in your local machine </h2><hr>
 <p align="center">
   <img src="https://github.com/akbloodadarsh/Git-Basics-For-Everyone/blob/master/1.png">
